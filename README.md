@@ -1,5 +1,3 @@
----
-
 # 🎵 Apple iTunes Business Intelligence Suite
 
 **An end-to-end Full-Stack Analytics application for digital music sales.**
