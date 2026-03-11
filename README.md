@@ -74,7 +74,7 @@ Open `http://127.0.0.1:5000` in your browser.
 ### 📬 Contact
 
 **Faizan**  – faizaanbhati95719@gmail.com
-*Project Link:[ https://github.com/faizaanbhati95719-beep/iTune](https://github.com/faizaanbhati95719-beep/iTunes-Music-Store-Analysis-/edit/main)
+**Project Link:** - [ https://github.com/faizaanbhati95719-beep/iTune](https://github.com/faizaanbhati95719-beep/iTunes-Music-Store-Analysis-/edit/main)
 
 ---
 
